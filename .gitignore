@@ -1,0 +1,14 @@
+# Sequencing data and derived files: large, and reproducible from the scripts
+raw/
+trimmed/
+alignments/
+reference/
+processed/
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.npz
+logs/
+__pycache__/
+*.pyc

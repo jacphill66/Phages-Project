@@ -1,0 +1,21 @@
+{
+  "ref_name": "sim_tRNA",
+  "ref_len": 76,
+  "cut_between": [
+    34,
+    35
+  ],
+  "expected_three_prime_end_at": 34,
+  "expected_five_prime_end_at": 35,
+  "cleaved_fraction": 0.3,
+  "molecules_simulated": 20000,
+  "fragments_treat": 15698,
+  "fragments_ctrl": 12689,
+  "read_len": 75,
+  "size_selection": [
+    17,
+    100
+  ],
+  "error_rate": 0.002,
+  "seed": 1
+}
